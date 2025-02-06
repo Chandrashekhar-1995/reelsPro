@@ -13,4 +13,5 @@
     - npm install lucide-react
     - create file upload
     - setup imagekit upload done
-    
+    - npm i -D daisyui@latest
+    - backend done
